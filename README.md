@@ -3,15 +3,7 @@
 
 ![Bat Logo](https://raw.githubusercontent.com/Sorabagu/bat/refs/heads/main/icon.ico?token=GHSAT0AAAAAAC4A4HDOKRIM4LQ736YEQYW2Z54N34Q)
 
-## 🖥️ About the Software
-
-**Bat - Windows Batch Creator** is a user-friendly tool designed to create, edit, and generate Windows batch files (.bat) with a modern, "hacker"-inspired interface. With features such as pre-configured templates, an assisted mode for launching programs, and a syntax-highlighted editor, Bat simplifies batch scripting for both beginners and advanced users.
-
-This project was developed as an **educational** initiative to help users explore programming concepts, learn batch scripting, and understand Windows command automation. Bat is completely free and welcomes your suggestions.
-
 ---
-
-## ✨ Main Features
 
 - **Create and Edit Batch Files**: Easily start new batch files or modify existing ones through an intuitive interface.
 - **Pre-configured Templates**: Quickly insert templates for common tasks like launching programs, shutting down the computer, or archiving files.
@@ -21,8 +13,6 @@ This project was developed as an **educational** initiative to help users explor
 - **Resource Integration**: All scripts are compiled into a self-contained executable for seamless deployment on Windows.
 
 ---
-
-## 📝 Educational Purpose
 
 This software is primarily an educational project designed to:
 - Explore Windows batch scripting and command automation.
