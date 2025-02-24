@@ -1,7 +1,7 @@
 # Bat - Windows Batch Creator
 ![Bat](https://img.shields.io/badge/version-1.0-blue) ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
-![Bat Logo](https://raw.githubusercontent.com/YourUsername/YourRepo/branch/screenshot/icon.png)
+![Bat Logo](https://raw.githubusercontent.com/Sorabagu/bat/refs/heads/main/icon.ico?token=GHSAT0AAAAAAC4A4HDOKRIM4LQ736YEQYW2Z54N34Q)
 
 ## 🖥️ About the Software
 
@@ -25,9 +25,7 @@ This project was developed as an **educational** initiative to help users explor
 ## 📝 Educational Purpose
 
 This software is primarily an educational project designed to:
-- Learn how to build complex graphical user interfaces.
 - Explore Windows batch scripting and command automation.
-- Experiment with modern UI designs inspired by hacker aesthetics.
 
 Bat is **completely free** and open to feedback and suggestions.
 
@@ -35,7 +33,7 @@ Bat is **completely free** and open to feedback and suggestions.
 
 ## 🚀 Download
 
-🔹 [Bat_v1.0](https://github.com/SoraBagu/Bat/releases/latest/)
+🔹 [Latest Version](https://github.com/SoraBagu/Bat/releases/latest/)
 
 ---
 
