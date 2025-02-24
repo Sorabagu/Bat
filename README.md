@@ -1,7 +1,7 @@
 # Bat - Windows Batch Creator
 ![Bat](https://img.shields.io/badge/version-1.0-blue) ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
-![Bat Logo](https://raw.githubusercontent.com/Sorabagu/bat/refs/heads/main/icon.ico?token=GHSAT0AAAAAAC4A4HDOKRIM4LQ736YEQYW2Z54N34Q)
+![Bat Logo](https://raw.githubusercontent.com/Sorabagu/bat/refs/heads/main/icon.ico?token=GHSAT0AAAAAAC4A4HDOIIKK624THIWHK4ICZ54OFTQ)
 
 ---
 
